@@ -1,0 +1,7 @@
+Step 1: Clone The Repository [git clone <url>]
+Step 2: Connect Local Repository with Remote Repository [git remote <command> <remote_name> <remote_URL>]
+Step 3: Make the necessary changes
+Step 4: Pull(to ensure you are working on the latest file) [git pull]
+Step 5: Add Changes [git add <file/directory name or . for all>]
+Step 6: Commit Changes [git commit -m "Your Message Here"]
+Step 7: Push Changes [git push]
